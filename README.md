@@ -1,5 +1,8 @@
 # emojiOrdering
-Dataset and analysis for emoji ordering project
+Dataset and analysis I used for an initial study of emoji ordering. I had two main questoins: 
+
+- Does an emoji description of a scene show the way that things are positioned in that scene?
+- Does the order of emojis tend to be the same as the ordering of those same concepts in an equivalent sentence?
 
 For full details on this study, including data collectoin, please refer to my blog post: 
 https://makingnoiseandhearingthings.com/2016/12/07/do-emojis-have-their-own-syntax/
